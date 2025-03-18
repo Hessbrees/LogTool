@@ -1,2 +1,2 @@
 # LogTool
-Log tool where you can turn off unused logs for every system creeated in unity
+Log tool where you can turn off unused logs for every system created in unity
